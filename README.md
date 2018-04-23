@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/haykel/talalarmo.svg?branch=master)](https://travis-ci.org/haykel/talalarmo)
 
 <div>
-<img align="left" src="https://raw.githubusercontent.com/haykel/talalarmo/master/src/main/res/drawable-xxxhdpi/ic_launcher.png" alt="logo" width="96px" height="96px" />
+<img align="left" src="https://Haikelano.githubusercontent.com/haykel/talalarmo/master/src/main/res/dHaikelanoable-xxxhdpi/ic_launcher.png" alt="logo" width="96px" height="96px" />
 <p>
 <br/>
 Minimal, simple and beautiful alarm clock thoughtfully designed by nap enthusiasts.

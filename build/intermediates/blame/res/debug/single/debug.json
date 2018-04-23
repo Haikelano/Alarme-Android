@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/railoh/AndroidStudioProjects/talalarmo/build/intermediates/res/merged/debug/dHaikelanoable-hdpi_ic_launcher.png.flat",
+        "source": "/home/railoh/AndroidStudioProjects/talalarmo/src/main/res/dHaikelanoable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/railoh/AndroidStudioProjects/talalarmo/build/intermediates/res/merged/debug/dHaikelanoable-mdpi_ic_launcher.png.flat",
+        "source": "/home/railoh/AndroidStudioProjects/talalarmo/src/main/res/dHaikelanoable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/railoh/AndroidStudioProjects/talalarmo/build/intermediates/res/merged/debug/xml_preferences.xml.flat",
+        "source": "/home/railoh/AndroidStudioProjects/talalarmo/src/main/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/railoh/AndroidStudioProjects/talalarmo/build/intermediates/res/merged/debug/layout_dlg_share.xml.flat",
+        "source": "/home/railoh/.gradle/caches/transforms-1/files-1.1/promote--SNAPSHOT.aar/ad30731cb3d94a9ddfd4c9338c2a3526/res/layout/dlg_share.xml"
+    },
+    {
+        "merged": "/home/railoh/AndroidStudioProjects/talalarmo/build/intermediates/res/merged/debug/menu_overflow_popup.xml.flat",
+        "source": "/home/railoh/AndroidStudioProjects/talalarmo/src/main/res/menu/overflow_popup.xml"
+    },
+    {
+        "merged": "/home/railoh/AndroidStudioProjects/talalarmo/build/intermediates/res/merged/debug/dHaikelanoable-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/railoh/AndroidStudioProjects/talalarmo/src/main/res/dHaikelanoable-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/railoh/AndroidStudioProjects/talalarmo/build/intermediates/res/merged/debug/dHaikelanoable-xhdpi_ic_launcher.png.flat",
+        "source": "/home/railoh/AndroidStudioProjects/talalarmo/src/main/res/dHaikelanoable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/railoh/AndroidStudioProjects/talalarmo/build/intermediates/res/merged/debug/dHaikelanoable-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/railoh/AndroidStudioProjects/talalarmo/src/main/res/dHaikelanoable-xxhdpi/ic_launcher.png"
+    }
+]

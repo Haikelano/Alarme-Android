@@ -1,0 +1,120 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml:2:1-36:12
+MERGED from [com.github.haykel:jedux:-SNAPSHOT] /home/railoh/.gradle/caches/transforms-1/files-1.1/jedux--SNAPSHOT.aar/658f8fd2ffe6c1bbfd67ec3bb7b44b3a/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.haykel:promote:-SNAPSHOT] /home/railoh/.gradle/caches/transforms-1/files-1.1/promote--SNAPSHOT.aar/ad30731cb3d94a9ddfd4c9338c2a3526/AndroidManifest.xml:2:1-12:12
+MERGED from [co.haykel:anvil-sdk15:0.3.1] /home/railoh/.gradle/caches/transforms-1/files-1.1/anvil-sdk15-0.3.1.aar/569a5588102e0c2aa6f0e3943bf40ded/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml:3:5-32
+	android:versionName
+		INJECTED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml
+		ADDED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml:2:1-36:12
+		INJECTED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml
+		ADDED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml:2:1-36:12
+		INJECTED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml:4:5-43
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml:6:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml:7:22-63
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml:9:5-73
+	android:name
+		ADDED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml:9:22-70
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml:10:22-77
+application
+ADDED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml:12:5-35:19
+	android:label
+		ADDED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml:12:38-70
+	android:icon
+		ADDED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml:12:71-107
+	android:name
+		ADDED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml:12:18-37
+activity#haykel.talalarmo.MainActivity
+ADDED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml:13:9-20:20
+	android:label
+		ADDED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml:15:19-51
+	android:theme
+		ADDED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml:14:19-50
+	android:name
+		ADDED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml:13:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml:16:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml:18:27-74
+activity#haykel.talalarmo.SettingsActivity
+ADDED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml:22:9-25:20
+	android:label
+		ADDED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml:24:13-45
+	android:name
+		ADDED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml:23:13-45
+activity#haykel.talalarmo.alarm.AlarmActivity
+ADDED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml:27:9-89
+	android:theme
+		ADDED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml:27:55-86
+	android:name
+		ADDED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml:27:19-54
+receiver#haykel.talalarmo.alarm.AlarmReceiver
+ADDED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml:28:9-57
+	android:name
+		ADDED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml:28:19-54
+receiver#haykel.talalarmo.alarm.BootReceiver
+ADDED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml:29:9-33:20
+	android:name
+		ADDED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml:29:19-53
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml:30:13-32:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml:31:17-79
+	android:name
+		ADDED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml:31:25-76
+service#haykel.talalarmo.alarm.AlarmService
+ADDED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml:34:9-55
+	android:name
+		ADDED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml:34:18-52
+uses-sdk
+INJECTED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml
+INJECTED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml
+MERGED from [com.github.haykel:jedux:-SNAPSHOT] /home/railoh/.gradle/caches/transforms-1/files-1.1/jedux--SNAPSHOT.aar/658f8fd2ffe6c1bbfd67ec3bb7b44b3a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.haykel:jedux:-SNAPSHOT] /home/railoh/.gradle/caches/transforms-1/files-1.1/jedux--SNAPSHOT.aar/658f8fd2ffe6c1bbfd67ec3bb7b44b3a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.haykel:promote:-SNAPSHOT] /home/railoh/.gradle/caches/transforms-1/files-1.1/promote--SNAPSHOT.aar/ad30731cb3d94a9ddfd4c9338c2a3526/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.haykel:promote:-SNAPSHOT] /home/railoh/.gradle/caches/transforms-1/files-1.1/promote--SNAPSHOT.aar/ad30731cb3d94a9ddfd4c9338c2a3526/AndroidManifest.xml:8:5-10:41
+MERGED from [co.haykel:anvil-sdk15:0.3.1] /home/railoh/.gradle/caches/transforms-1/files-1.1/anvil-sdk15-0.3.1.aar/569a5588102e0c2aa6f0e3943bf40ded/AndroidManifest.xml:5:5-7:41
+MERGED from [co.haykel:anvil-sdk15:0.3.1] /home/railoh/.gradle/caches/transforms-1/files-1.1/anvil-sdk15-0.3.1.aar/569a5588102e0c2aa6f0e3943bf40ded/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml
+INJECTED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml
+		ADDED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml
+		INJECTED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml
+		ADDED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml
+		INJECTED from /home/railoh/AndroidStudioProjects/talalarmo/src/main/AndroidManifest.xml

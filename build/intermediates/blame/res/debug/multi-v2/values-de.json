@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/railoh/AndroidStudioProjects/talalarmo/build/intermediates/incremental/mergeDebugResources/merged.dir/values-de/values-de.xml",
+            "map": [
+                {
+                    "source": "/home/railoh/.gradle/caches/transforms-1/files-1.1/promote--SNAPSHOT.aar/ad30731cb3d94a9ddfd4c9338c2a3526/res/values-de/values-de.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,113,165,227,383,447,502,600",
+                        "endColumns": "57,51,61,155,63,54,97,62",
+                        "endOffsets": "108,160,222,378,442,497,595,658"
+                    }
+                }
+            ]
+        }
+    ]
+}

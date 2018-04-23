@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>Будильник спрацює менш ніж за хвилину</item>
+        <item>Будильник встановлено на %1$s</item>
+        <item>Будильник встановлено на %2$s</item>
+        <item>Будильник встановлено на %1$s і %2$s</item>
+    </string-array>
+    <string-array name="settings_themes">
+        <item>Світла</item>
+        <item>Темна</item>
+    </string-array>
+    <string name="app_name">Talalarmo</string>
+    <string name="dialog_btn_cancel">Ні, дякую</string>
+    <string name="dialog_btn_later">Нагадати пізніше</string>
+    <string name="hour">1 годину</string>
+    <string name="hours">%s год.</string>
+    <string name="leave_feedback">Залишити відгук</string>
+    <string name="minute">1 хвилину</string>
+    <string name="minutes">%s хв.</string>
+    <string name="rate_dialog_btn_ok">Оцінити зараз</string>
+    <string name="rate_dialog_message">Якщо Вам сподобався цей додаток, будь ласка, знайдіть час, щоб оцінити його. Це займе не більше хвилини. Дякую за пітримку!</string>
+    <string name="rate_dialog_title">Оцініть цей додаток</string>
+    <string name="settings">Налаштування</string>
+    <string name="settings_ringtone_option">Мелодія</string>
+    <string name="settings_snap_option">Прив’язка до 5 хвилин</string>
+    <string name="settings_theme_option">Тема оформлення</string>
+    <string name="settings_vibration_option">Вібросигнал</string>
+    <string name="settings_volume_increase_option">Плавне зростання гучності</string>
+    <string name="share_dialog_btn_ok">Поділитися</string>
+    <string name="share_dialog_message">Ви хочете поділитися цим додатком з друзями?</string>
+    <string name="share_dialog_title">Поділіться цим додатком</string>
+    <string name="tv_start_alarm_text">Натисніть, щоб\nвстановити будильник</string>
+</resources>

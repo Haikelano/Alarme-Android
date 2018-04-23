@@ -1,0 +1,1 @@
+[{"outputType":{"type":"MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":19,"versionName":"3.9","enabled":true,"outputFile":"talalarmo-debug.apk","fullName":"debug","baseName":"debug"},"path":"AndroidManifest.xml","properties":{"packageId":"haykel.talalarmo","split":"","minSdkVersion":"15"}}]

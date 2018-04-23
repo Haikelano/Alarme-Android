@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>このアラームは今から 1 分以内にセットされます</item>
+        <item>このアラームは今から %1$s にセットされます</item>
+        <item>このアラームは今から %2$s にセットされます</item>
+        <item>このアラームは今から %1$s と %2$s にセットされます</item>
+    </string-array>
+    <string-array name="settings_themes">
+        <item>ライト</item>
+        <item>ダーク</item>
+    </string-array>
+    <string name="app_name">Talalarmo</string>
+    <string name="dialog_btn_cancel">いいえ</string>
+    <string name="dialog_btn_later">あとで</string>
+    <string name="hour">1 時間</string>
+    <string name="hours">%s 時間</string>
+    <string name="leave_feedback">フィードバックを残す</string>
+    <string name="minute">1 分</string>
+    <string name="minutes">%s 分</string>
+    <string name="rate_dialog_btn_ok">はい</string>
+    <string name="rate_dialog_message">このアプリを気に入っていただいたら、ぜひレビューしてください。レビューは１分未満で終わります。</string>
+    <string name="rate_dialog_title">アプリをレビューしませんか？</string>
+    <string name="settings">設定</string>
+    <string name="settings_ringtone_option">ベル音</string>
+    <string name="settings_snap_option">5 分スリープ</string>
+    <string name="settings_theme_option">テーマ</string>
+    <string name="settings_vibration_option">バイブレート</string>
+    <string name="settings_volume_increase_option">サウンドのフェードイン</string>
+    <string name="share_dialog_btn_ok">シェア </string>
+    <string name="share_dialog_message">あなたはお友達と、このアプリを共有したいと思いますか？</string>
+    <string name="share_dialog_title">このアプリを共有します</string>
+    <string name="tv_start_alarm_text">ここをタップして\nアラームをセット</string>
+</resources>
